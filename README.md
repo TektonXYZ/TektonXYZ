@@ -1,40 +1,44 @@
 <div align="center">
 
-<img src="https://github.com/TektonXYZ.png" width="110" />
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:000000,50:9945FF,100:FF69B4&text=TEKTON&fontSize=64&fontColor=FFB6E1&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=900&color=FF69B4&center=true&vCenter=true&width=600&lines=solo+builder+%2F%2F+solana;ship+first%2C+sleep+later" alt="typing" />
+<a href="https://tektonxyz.xyz/"><img src="assets/hero.svg" width="100%" alt="TEKTON written in contribution squares" /></a>
 
 <br>
 
-![Solana](https://img.shields.io/badge/SOLANA-000000?style=for-the-badge&logo=solana&logoColor=9945FF)
-![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=FF69B4)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=FF69B4)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<a href="https://tektonxyz.xyz/"><b>tektonxyz.xyz</b></a> &nbsp;·&nbsp; <a href="https://x.com/Tekton_XYZ"><b>x.com/Tekton_XYZ</b></a>
 
-</div>
+<br>
 
-```
-$ ls ~/projects
+<img src="assets/stats.svg" width="100%" alt="66 live sites, 86 projects, 870,000+ lines of code, 118 overnight builds, 16 films cut" />
 
-rexleo.xyz        launchpad — vanity mints, jito bundles, snipe protection
-rexleoswap.xyz    no-kyc crypto↔monero swaps, self-hosted infra
-inject            atomic fee tooling for pump.fun creators
-nexaria.fun       ai agent marketplace w/ escrow + SPL token
-agentcadia        pixel arena, agents fight for tokens
-```
+<br>
 
-<div align="center">
+<img src="assets/reel.webp" width="100%" alt="Highlight reel of project films" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=TektonXYZ&show_icons=true&hide_border=true&bg_color=000000&title_color=9945FF&icon_color=FF69B4&text_color=c9d1d9&ring_color=FF69B4" />
+<br>
 
-<br><br>
+<a href="https://thegoldrush.fun"><img src="assets/work/thegoldrush-fun.jpg" width="32%" alt="GoldRush: Wild West gold-mining tycoon in full 3D." /></a>
+<a href="https://mettpad.com"><img src="assets/work/mettpad-com.jpg" width="32%" alt="METTPAD: Launch a coin on Meteora, keep the tax." /></a>
+<a href="https://optionspad.fun"><img src="assets/work/optionspad-fun.jpg" width="32%" alt="OptionsPad: Launch a coin pegged to a stock option." /></a>
+<a href="https://businesspad.world"><img src="assets/work/businesspad-world.jpg" width="32%" alt="BusinessPad: Tokenize any business on earth." /></a>
+<a href="https://manticore.fun"><img src="assets/work/manticore-fun.jpg" width="32%" alt="Manticore: A liquidity desk for size." /></a>
+<a href="https://ztek.agency"><img src="assets/work/ztek-agency.jpg" width="32%" alt="Ztek: Launch an agent. Nobody sees what it earns." /></a>
+<a href="https://unlistedotc.com"><img src="assets/work/unlistedotc-com.jpg" width="32%" alt="Unlisted: OTC penny stocks, paid in SOL." /></a>
+<a href="https://0xcpu.fun"><img src="assets/work/0xcpu-fun.jpg" width="32%" alt="0xCPU: Compute you can watch." /></a>
+<a href="https://liqft.fun"><img src="assets/work/liqft-fun.jpg" width="32%" alt="LiqFt: The girls work the pools." /></a>
+<a href="https://omitrades.xyz"><img src="assets/work/omitrades-xyz.jpg" width="32%" alt="omi: A fly brain trading on fomo." /></a>
+<a href="https://www.openfly.world"><img src="assets/work/openfly-world.jpg" width="32%" alt="OpenFly: Train a fly, sell what it learns." /></a>
+<a href="https://defi-street.netlify.app"><img src="assets/work/defi-street.jpg" width="32%" alt="DEFI STREET: Every coin is a building in a multiplayer 3D city." /></a>
 
-```
-[ no team. no funding. just commits. ]
-```
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9945FF,100:FF69B4&section=footer" />
+<img src="assets/wall.svg" width="100%" alt="A moving wall of live site screenshots" />
+
+<br>
+
+<img src="assets/terminal.svg" width="100%" alt="Terminal showing who Tekton is and what is shipping" />
+
+<br>
+
+<a href="https://github.com/TektonXYZ?tab=repositories"><img src="https://raw.githubusercontent.com/TektonXYZ/TektonXYZ/output/chart.svg" width="100%" alt="Contribution chart, rebuilt daily from real GitHub data" /></a>
 
 </div>
