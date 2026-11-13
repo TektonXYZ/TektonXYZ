@@ -1,20 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-label="Terminal showing who Tekton is and what is shipping">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 308" role="img" aria-label="Terminal showing who Tekton is and what is shipping">
 <defs><linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#9945FF"/><stop offset="1" stop-color="#FF69B4"/></linearGradient></defs>
 <style>
 .r{animation:in .3s ease both}
 @keyframes in{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
-<rect x="1" y="1" width="1198" height="458" rx="14" fill="#0a0810" stroke="url(#edge)" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="306" rx="14" fill="#0a0810" stroke="url(#edge)" stroke-width="2"/>
 <circle cx="32" cy="30" r="7" fill="#FF69B4"/><circle cx="56" cy="30" r="7" fill="#c44fd9"/><circle cx="80" cy="30" r="7" fill="#9945FF"/>
 <text class="r" style="animation-delay:0.25s" x="44" y="86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#FF69B4">$ whoami</text>
 <text class="r" style="animation-delay:0.57s" x="44" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#d7dae3">tekton. no team. no funding. just commits.</text>
-<text class="r" style="animation-delay:0.89s" x="44" y="162" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#FF69B4">$ ls ~/shipped | wc -l</text>
-<text class="r" style="animation-delay:1.21s" x="44" y="194" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#d7dae3">66</text>
-<text class="r" style="animation-delay:1.53s" x="44" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#FF69B4">$ tree -L 1 ~/shipped</text>
-<text class="r" style="animation-delay:1.85s" x="44" y="270" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#d7dae3">launchpads 24  agents 13  trading 12  games 8  compute 5  more 4</text>
-<text class="r" style="animation-delay:2.17s" x="44" y="314" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#FF69B4">$ cat ~/stack</text>
-<text class="r" style="animation-delay:2.49s" x="44" y="346" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#d7dae3">typescript  rust  python  c++  go  solana  next.js  three.js</text>
-<text class="r" style="animation-delay:2.81s" x="44" y="390" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#FF69B4">$ cat ~/now</text>
-<text class="r" style="animation-delay:3.13s" x="44" y="422" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#d7dae3">front ends going open source, one a day</text>
+<text class="r" style="animation-delay:0.89s" x="44" y="162" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#FF69B4">$ cat ~/stack</text>
+<text class="r" style="animation-delay:1.21s" x="44" y="194" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#d7dae3">typescript  rust  python  c++  go  solana  next.js  three.js</text>
+<text class="r" style="animation-delay:1.53s" x="44" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#FF69B4">$ cat ~/now</text>
+<text class="r" style="animation-delay:1.85s" x="44" y="270" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#d7dae3">front ends going open source, one a day</text>
 </svg>

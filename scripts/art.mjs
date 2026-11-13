@@ -90,8 +90,6 @@ ${cells.join('\n')}
 function terminal() {
   const lines = [
     ['$ whoami', 'tekton. no team. no funding. just commits.'],
-    ['$ ls ~/shipped | wc -l', facts.sites],
-    ['$ tree -L 1 ~/shipped', facts.kinds],
     ['$ cat ~/stack', 'typescript  rust  python  c++  go  solana  next.js  three.js'],
     ['$ cat ~/now', 'front ends going open source, one a day'],
   ]
@@ -148,6 +146,5 @@ ${body.join('\n')}
 }
 
 fs.mkdirSync('assets', { recursive: true })
-fs.writeFileSync('assets/stats.svg', stats())
 fs.writeFileSync('assets/hero.svg', hero())
 fs.writeFileSync('assets/terminal.svg', terminal())
